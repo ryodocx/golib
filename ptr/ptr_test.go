@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ryodocx/golib/v2/ptr"
+	"github.com/ryodocx/golib/ptr"
 )
 
 func TestToPtr(t *testing.T) {
